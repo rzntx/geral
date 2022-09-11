@@ -20,6 +20,4 @@ window.addEventListener("load", function trocar() {
 
         });
 
-        window.addEventListener("load", function sair() {
-            document.getElementById("teste").innerHTML = "Testando Eventos";
-        });
+        
