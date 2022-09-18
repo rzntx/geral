@@ -10,7 +10,7 @@ function eq2() {
         
         if(A == 0) {
             document.getElementById("x1").innerHTML = -C/B;
-            document.getElementById("solution").innerHTML = "S = {-C/B }";
+            document.getElementById("solution").innerHTML = "S = {" + -C/B + " }";
         }
         
         else {
